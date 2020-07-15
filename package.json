@@ -1,0 +1,18 @@
+{
+  "name": "BotNET",
+  "version": "1.0.0",
+  "description": "BotNET based on Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "MoonFoxy aka. Ilya Balakirev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0",
+    "prompts": "^2.3.2",
+    "ytdl-core-discord": "^1.2.1"
+  }
+}
